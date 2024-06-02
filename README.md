@@ -11,6 +11,7 @@
 5. Внесите изменения в конфигурацию для работы с базой данных. Вместо SessionFactory должен использоваться **EntityManager**.
 
 <br/>
+<img src="https://github.com/alexcurly/PP_2_3_1/assets/69361733/a450f2d4-e25b-4c23-8fea-fd434f1edf3e"/>
 ![image](https://github.com/alexcurly/PP_2_3_1/assets/69361733/a450f2d4-e25b-4c23-8fea-fd434f1edf3e)
 <br/><br/>
 ![image](https://github.com/alexcurly/PP_2_3_1/assets/69361733/cdcfd4a9-8788-4eef-88c9-2d1bf958295c)
